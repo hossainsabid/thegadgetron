@@ -1,6 +1,6 @@
 # theGadgetron
 
-Welcome to theGadgetron, an eCommerce website that sells tech products. This project is a comprehensive tutorial, where I build a fully-functional eCommerce shop using the MERN stack along with Redux Toolkit. 
+Welcome to theGadgetron, an eCommerce website that sells tech products. This project is a comprehensive learning practice, where I build a fully-functional eCommerce shop using the MERN stack along with Redux Toolkit. 
 
 ## Project Description
 The platform that I am building includes the following features:
